@@ -1,7 +1,7 @@
 // FooterContact.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import contactUsGif from '../assets/contact-us.gif'; // Ensure the path is correct
+import contactUsGif from '../assets/Contact-us.gif'; // Ensure the path is correct
 
 const FooterContact = () => {
   return (
