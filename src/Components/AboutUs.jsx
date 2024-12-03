@@ -1,7 +1,7 @@
 import React from "react";
 import About from "../assets/About_x.jpg";
 import AboutusPage from "../assets/About-us-page.gif";
-import Company from "../assets/company.gif";
+import Company from "../assets/Company.gif";
 import OurTeam from "../Pages/OurTeam";
 import { FaUserClock, FaShippingFast, FaHandHoldingUsd } from "react-icons/fa";
 import CountUp from "react-countup";
