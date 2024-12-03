@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import CareersImage from "./CareersImage";
-import { jobCategories, jobsData } from "./jobsData";
+import { jobCategories, jobsData } from "./JobsData";
 import { Link } from "react-router-dom";
 
 const Careers = () => {
